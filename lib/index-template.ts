@@ -22,7 +22,8 @@ const cssStyle = `
     }
 
     .screenshots-scroll-container {
-        overflow-x: scroll;
+        display:inline-flex;
+        flex-direction:column;
     }
 
     .screenshots {
@@ -32,7 +33,7 @@ const cssStyle = `
     }
 
     .screenshots img {
-        width: 300px;
+        width: 700px;
         margin-right: 5px;
     }
 
