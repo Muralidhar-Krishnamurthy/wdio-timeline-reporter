@@ -6,6 +6,9 @@
 
 ![example.png](./images/example.png)
 
+Forked changes:
+ This is a forked repo of the timeline reporter with changes applied to the css of the report to show large size(700px width) images and in columns rather than row
+ ![change.png](./images/changed.png)
 ## Why
 
 Because we spend a lot of time debugging failing tests switching from terminal output to viewing error screenshots etc. This reporter aggregates all the typical information you will need into one report. Run tests and have a nice timeline of events you can look back at to further verify everything looks ok.
