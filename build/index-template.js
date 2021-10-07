@@ -37,6 +37,7 @@ const cssStyle = `
     .screenshots img {
         width: 700px;
         margin-right: 5px;
+        margin-bottom: 10px;
     }
 
     .fail p {
